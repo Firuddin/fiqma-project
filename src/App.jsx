@@ -1,11 +1,9 @@
-
+import HomePage from "./Pages/HomePage"
 
 function App() {
   return (
     <>
-      <h1 className="nese text-center ">
-      Hello world!
-    </h1>
+    <HomePage/>
     </>
   )
 }
